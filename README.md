@@ -15,6 +15,9 @@ Ezegwui Onyedika Possible
 Udeh Ujunwa Faustina
 Chibuzo Franklin - Advisor
 
+## Project Live Url
+https://chicaura.netlify.app
+
 ## Tech Used
 
 React, Javascript and CSS
